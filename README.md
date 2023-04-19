@@ -5,7 +5,9 @@ I implement optimum state-value function in file `Optimum-State-Value.py` for fi
 
 <p align=center>
   <img src="https://github.com/farkoo/DP-for-FMDP/blob/master/Grid3.5.jpg" width=800 height=320>
-  <em>figure 3.5</em>
+</p>
+<p>
+	<em>figure 3.5</em>
 </p>
 
 
@@ -16,7 +18,7 @@ In the file `PE-PI-VI.py` i implement three RL algorithm for example 4.1 of Sutt
 3. Value Iteration
 
 <p align=center>
-  <img src="https://github.com/farkoo/DP-for-FMDP/blob/master/example4.1.jpg" width=800 height=320>
+  <img src="https://github.com/farkoo/DP-for-FMDP/blob/master/example4.1.jpg" width=750 height=320>
   <em>example 4.1</em>
 </p>
 

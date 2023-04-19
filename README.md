@@ -6,11 +6,7 @@ I implement optimum state-value function in file `Optimum-State-Value.py` for fi
 <p align=center>
   <img src="https://github.com/farkoo/DP-for-FMDP/blob/master/Grid3.5.jpg" width=800 height=320>
 </p>
-<p align=center>
-<p>
-	<em>figure 3.5</em>
-</p>
-</p>
+
 
 ### PE and PI and VI
 In the file `PE-PI-VI.py` i implement three RL algorithm for example 4.1 of Sutton's Reinforcement Learning Book:
@@ -21,11 +17,7 @@ In the file `PE-PI-VI.py` i implement three RL algorithm for example 4.1 of Sutt
 <p align=center>
   <img src="https://github.com/farkoo/DP-for-FMDP/blob/master/example4.1.jpg" width=750 height=320>
 </p>
-<p align=center>
-<p>
-	<em>example 4.1</em>
-</p>
-</p>
+
 
 ## Support
 
